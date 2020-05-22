@@ -17,6 +17,23 @@
        -  Developed Predictive  models from classsification algorithms Adaboost, Bagging and gradient Descent and random Forest.
        -  Evaluated and Measured Metrics with test data in Accuracy, Precision and recall and got Accuracy of 79% in test data.
        
+- layout: top-middle
+  name:  Artificial Intelligence-based Fault Prediction Model | December 2019 
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+        Implemented Fault Prediction Model to Forecast happening of network fault and what type of fault was that.
+        
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - 	Used R script to import data from telecom network, performed cleansing and preprocessing data using Power queries.
+       -  Used correlation matrix to evaluate the correlation among variables and then used N-fold cross evaluation.
+       -  Interpreted the Mining frequent pattern using sequential pattern discovery using equivalence classes (SPADE) using R studio. 
+       -  Evaluated and Measured Metrics with test data in Accuracy, Precision and recall and got Accuracy of 79% in test data.
+       
        
   
  
