@@ -35,7 +35,21 @@
        -  Evaluated and Measured Metrics with test data in Accuracy, Precision and recall and got Accuracy of 79% in test data.
        
        
-  
+- layout: top-middle
+  name:  End to End Data Warehouse for a Retail Store | April 2019 
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+              Data Warehousing (DW) is a process for collecting and managing data from varied sources to provide meaningful business insights. Data Warehouse plays an important role. It helps to analyze key aspects to improve sales of an enterprise.
+        
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - 	Designed an end-to-end sales data warehouse using Pentaho DI and performed various transformations on the data (Row Normalizer, Database Lookup, if field value is null)
+       -  Designed a database using Star Schema and built a multi-dimensional cube using Mondrian      
+       -  Configured the Pentaho BI server to deploy reports by creating a database connection in Pentaho Enterprise Console for central usage. 
  
 
 
