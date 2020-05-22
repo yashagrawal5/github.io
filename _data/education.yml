@@ -1,23 +1,34 @@
 # Education Template
 - layout: left
-  name: Illinois Institute of Technology
-  dates: 2018-present 
-  qualification: M S in Information Technology and Management (Data Management)
-  gpa: 3.77/4.0
+  name: Illinois Institute of Technology ,Chicago
+  dates: 2019-present 
+  qualification: M S in Information Technology and Management (Data Management & Analytics)
+  gpa: 3.66/4.0
   quote: >
     "Illinois Tech stands at the crossroads of exploration and innovation, advancing Chicago and the world".
   description: | # this will include new lines to allow paragraphs
     - *Courses*: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Project Management
-    - *Projects*: Credit Card Fraud Detection, End to End Data Warehouse for a Retail Store, Analysis of World Happiness Report, Advertising Database Management System, Interactive Analysis Report and Dashboard for Ted Talks using Power BI 
+    - *Projects*: Chicago Transit Crime Analysis, Artificial Intelligence-based Fault Prediction Model , Bike Sharing Prediction Model, Handwritten Digit Recognition Using SVM, Credit Risk Analysis, UBER Cab Supply-Demand Gap Analytics 
     
 - layout: left
-  name: B V Bhoomaraddi College of Engineering and Technology
-  dates: 2013-2017 
-  qualification: B E in Instrumentation Technology
-  gpa: 3.67/4.0
+  name: International Institute of Information and Technology,Bangalore
+  dates: 2018-2019 
+  qualification: Post Graduate Diploma In Data Science
+  gpa: 4.0/4.0
   quote: >
-    "The B. V. Bhoomaraddi College of Engineering and Technology (BVBCET), believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
+    "The International Institute of Information and Technology, is among top 50 college in india, believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
   description: | # this will include new lines to allow paragraphs
-    - *Relevant Courses*: Computer Programming using C, Embedded systems, Real Time Operating System, Software Engineering, Data Structures using C, Management theory and Practices, Object Oriented programming with C++. 
-    - *Projects*: Smart Gloves for Deaf and Mute Children, Droid Alert System
+    - *Relevant Courses*: Introduction to Data Management,Exploratory and Statistical Analysis, Big Data, Predictive Analytics 1 & 2, Data Warehousing,Visualization using Tableau, Neural Network.   
+    - *Projects*: Data Ingestion and Analyzing Bigdata on Apache-Hive Platform, FIFA World Cup Prediction
+    
+    - layout: left
+  name: Acropolis Technical Campus,Indore
+  dates: 2013-2017 
+  qualification: Bachelor's of Engineering In Computer Science 
+  gpa: 3.8/4.0
+  quote: >
+    "Acropolis Technical Campus is one of the refined college in computer science.".
+  description: | # this will include new lines to allow paragraphs
+    - *Courses*: Data Structure,Algorithm in Data Science, Theory of Computation 
+   
     
