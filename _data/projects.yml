@@ -36,63 +36,7 @@
        -  Used Precision, Recall and F1-score to evaluate the results.
        
        
-  - layout: top-middle
-  name: Bike Sharing Prediction Model  | Sep 2019
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    
-   This is Bike sharing prediction for forecasting the Sharing business of bike over the USA.
-    
-  description: | # this will include new lines to allow paragraphs
-      
-      **Contributions:**
-       
-       -  Applied Data processing of data and feature Engineering forgetting insights, Implemented Residual Analysis on developed models
-       -  Developed Linear Models on different parameters metrics AIC/BIC , Applied ANOVA on the relational Databases.
-       -  Trained model with methods such as Random Forest , Support Vector Machine(SVM) algorithm got accuracy of 87% on test data.
-       -  Performed hypothesis test on the data set, built a regression model and performed predictive analysis using R.
-       -  Also used predict() function to predict the variables that affected the most and RMSE (Root mean square error) to check the accuracy of the prediction.
-       
-       
-
-- layout: top-middle
-  name: End to End Data Warehouse for a Retail Store | April 2019
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-      
-      Data Warehousing (DW) is a process for collecting and managing data from varied sources to provide meaningful business insights. Data Warehouse plays an important role. It helps to analyze key aspects to improve sales of an enterprise.
-    
-  description: | # this will include new lines to allow paragraphs
-      
-      **Contributions:**
-       
-       -  Designed an end-to-end sales data warehouse using Pentaho DI and performed various transformations on the data (Row Normalizer, Database Lookup, if field value is null)
-       -  Designed a database using Star Schema and built a multi-dimensional cube using Mondrian
-       -  Configured the Pentaho BI server to deploy reports by creating a database connection in Pentaho Enterprise Console for central usage.
-       
-- layout: top-middle
-  name: Credit Risk Analysis of CredX Bank | November 2018
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    
-     
-    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction
-
-  description: | # this will include new lines to allow paragraphs
-      
-      **Contributions:**
-      
-      -  Built a model that identifies the factors influencing the world happiness with 92% accuracy 
-      -  Used classification algorithms like KNN, Naïve Bayes and logistic regression to validate the results.
-      -  Performed data cleansing and preprocessing using R statistical packages. 
-      -  Identified significance variable by Weight of Evidence(WOE) and IV analysis, to solve imbalance issue where 0.17% are fraudulent.
-      -  Evaluated & developed data model by machine learning algorithms a Logistic Regression, Decision Trees and Random Forest to predict Fraudulent Transactions and validated the models using confusion matrix and F1 score.
-
-
-       
+ 
 
 
 
