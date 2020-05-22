@@ -85,7 +85,7 @@
       - Used classification algorithms like KNN, Naïve Bayes and logistic regression to validate the results.
       - Performed data cleansing and preprocessing using R statistical packages. 
       - Identified significance variable by Weight of Evidence(WOE) and IV analysis, to solve imbalance issue where 0.17% are fraudulent.
-      - Evaluated developed data model by machine learning algorithms a Logistic Regression, Decision Trees and Random Forest to predict Fraudulent Transactions and validated the models using confusion matrix and F1 score.
+      - Evaluated & developed data model by machine learning algorithms a Logistic Regression, Decision Trees and Random Forest to predict Fraudulent Transactions and validated the models using confusion matrix and F1 score.
 
        
        
