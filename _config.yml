@@ -3,7 +3,7 @@ repository: yashagrawal5/yashagrawal5.github.io
 #favicon: images/favicon.ico
 
 # Personal info
-name: Yash agrawal
+name: Yash Agrawal
 title: MS in Information Technology and Management (Data Analytics and Management)
 email: yagrawal1@hawk.iit.edu
 phone: 312-684-6967
@@ -54,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
    - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
    - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
-   - **ETL Tools**: MS SSIS, Pentaho
+   - **ETL Tools**: Pentaho
    - **Web Analytics**: Google Analytics
    
 # Others Section
