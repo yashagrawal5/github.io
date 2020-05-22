@@ -46,9 +46,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - **Programming** **Skills**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
-   - **Programming** **Languages**: C,C++,Java, SQL
-   - **Big Data Technology**: Hadoop, Hive, Pig, Neural Network processing , Jupyter Notebook
+   - **Data** **Science** **Skills**: Neural Network, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
+   - **Programming** **Languages**: R Programming, Python, Java,Jupyter Notebook
+   - **Machine** **Learning**: Decision Tree, KNN, SVM, K- Means, Random Forest, Adaboost, Extra Tree and  bagging.
+   - **Big Data Technology**: Hadoop, Hive, Pig
    - **Data Visualization**: Excel, Tableau, PowerBI, Pentaho CDE
    - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
    - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
