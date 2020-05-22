@@ -27,7 +27,7 @@
   qualification: Bachelor's of Engineering In Computer Science 
   gpa: 3.8/4.0
   quote: >
-    "Acropolis Technical Campus is one of the refined college in computer science.".
+    "Acropolis Technical Campus is one of the refined college in computer science."
   description: | # this will include new lines to allow paragraphs
     - *Courses*: Data Structure,Algorithm in Data Science, Theory of Computation 
    
