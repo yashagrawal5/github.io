@@ -24,6 +24,7 @@
   quote: >
     
       Implemented Fault Prediction Model to Forecast happening of network fault and what type of fault was that.
+      
   description: | # this will include new lines to allow paragraphs
       
       **Contributions:**
@@ -74,8 +75,7 @@
   quote: >
     
      
-    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. 
-    Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction
+    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction
 
   description: | # this will include new lines to allow paragraphs
       
