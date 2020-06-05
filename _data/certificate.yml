@@ -1,0 +1,68 @@
+# Certificate template
+- layout: left
+  company: IBM
+  job_title: Data Analysis using Python
+  dates: May2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Topics**
+       
+        - Analyze data in Python using multi-dimensional arrays, Manipulating DataFrames in pandas, using SciPy library of mathematical routines and performing machine learning using scikit-learn. 
+
+# Certificate template
+- layout: left
+  company: IBM
+  job_title: Machine Learning using Python
+  dates: May2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Topics**
+       
+        - Supervised vs. Unsupervised Learning, applications of different types of machine learning models
+
+# Certificate template
+- layout: left
+  company: AWS
+  job_title: Data Analytics Fundamentals
+  dates: June2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Topics**
+       
+        - 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 walks through the process for planning data analysis solutions and the various data analytic processes that are involved. The course introduces the 5 V's that indicate the need for specific AWS services in collecting, processing, analyzing, and presenting your data. It discusses everything from raw data storage in #AmazonS3 or within an Amazon S3 data lake, to the visualization of analytical data using #AmazonQuickSight. There are so many services that fall between the beginning and end of the data flow.
+
+
+# Certificate template
+- layout: left
+  company: Tableau
+  job_title: Tableau Analyst
+  dates: May2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Topics**
+       
+        - Desktop I, Desktop II, Analytics Best Practices, Analyst Skills Assessment Badge
+
+# Certificate template
+- layout: left
+  company: Linked-in
+  link: https://www.linkedin.com/in/smadke2611/
+  job_title: Linked-in Certifications
+  dates: Mar20-May20
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Topics**
+       
+        - Python Data analysis 
+        - Recommendation System using Python Machine Learning & AI
+        - SQL for Exploratory Data Analysis
