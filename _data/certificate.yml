@@ -27,6 +27,7 @@
 # Certificate template
 - layout: left
   company: AWS
+  link: www.linkedin.com/in/yash-agrawal5/
   job_title: Data Analytics Fundamentals
   dates: June2020
   #quote: >
@@ -41,6 +42,7 @@
 # Certificate template
 - layout: left
   company: Tableau
+  link: www.linkedin.com/in/yash-agrawal5/
   job_title: Tableau Analyst
   dates: May2020
   #quote: >
@@ -54,7 +56,7 @@
 # Certificate template
 - layout: left
   company: Linked-in
-  link: https://www.linkedin.com/in/smadke2611/
+  link: www.linkedin.com/in/yash-agrawal5/
   job_title: Linked-in Certifications
   dates: Mar20-May20
   #quote: >
