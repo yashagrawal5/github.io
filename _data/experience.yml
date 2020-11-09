@@ -1,5 +1,22 @@
 # Experience template
 - layout: left
+  company: DIGBY'S DETECTIVE AND SECURITY AGENCY
+  link: https://digbysecurity.com/
+  job_title: Data Analyst Intern
+  dates: May 2020-present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+       
+        - Building a recommendation engine in python to enable strategic planning for predicting crime in 200+ Chicago transit stations.
+        - Implementing various classification models such as XGBoost, Decision Trees, SVM, KNN, Ensemble methods to improve predictions 
+        - Diagnosed neural networks to elevate the performance up to 85.22%.
+        - Implementing Mutomatic Machine Learning algorithms for better performnaces matrix and to enhance the result. 
+
+# Experience template
+- layout: left
   company: Illinois Institute of Technology
   link: https://www.iit.edu/
   job_title: Graduate Teaching Assistant
@@ -40,7 +57,7 @@
   company: Illinois Institute of Technology
   link: https://www.iit.edu/
   job_title: Community Desk Assistant
-  dates: 2020-Present
+  dates: 2020- Nov 2020
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
