@@ -1,0 +1,13 @@
+# Leadership Experience template
+- layout: left
+  company: Machine Learning Community of IIT 
+  job_title: President of club
+  dates: May 2020 - Present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Topics**
+       
+        - Organized 3 Workshops on data science pipeline including topics data preprocessing, feature extraction, feature engineering and modelling
+        - Organized hackathon on data science topics
