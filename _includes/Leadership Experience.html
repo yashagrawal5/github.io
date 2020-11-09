@@ -1,1 +1,6 @@
-
+<div class="container Leadership Experience-container">
+  <h3>{{ site.Leadership Experience_title | default: "Leadership Experience" }}</h3>
+  {% for Leadership Experience in site.data.Leadership Experience %}
+    {% include {{ Leadership Experience.layout | default: 'left' | append: ".html" }} item=Leadership Experience %}
+  {% endfor %}
+</div>
